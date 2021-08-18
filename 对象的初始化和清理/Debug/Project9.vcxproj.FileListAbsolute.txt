@@ -1,0 +1,2 @@
+D:\研究生生活\C++学习\Project9\Debug\Project9.exe
+D:\研究生生活\C++学习\对象的初始化和清理\Debug\Project9.exe
