@@ -1,0 +1,16 @@
+﻿“Project2.exe”(Win32): 已加载“D:\研究生生活\C++学习\Project2\x64\Debug\Project2.exe”。已加载符号。
+“Project2.exe”(Win32): 已加载“C:\Windows\System32\ntdll.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\System32\kernel32.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\System32\KernelBase.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\System32\msvcp140d.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140_1d.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140d.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\System32\ucrtbased.dll”。
+线程 0xc6b4 已退出，返回值为 0 (0x0)。
+“Project2.exe”(Win32): 已加载“C:\Windows\System32\sechost.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\System32\rpcrt4.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\System32\kernel.appcore.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\System32\msvcrt.dll”。
+线程 0xaa80 已退出，返回值为 0 (0x0)。
+线程 0x9624 已退出，返回值为 0 (0x0)。
+程序“[24392] Project2.exe”已退出，返回值为 0 (0x0)。
